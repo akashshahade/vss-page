@@ -1,11 +1,11 @@
 ---
 title: "१७ वर्षांचा विश्वास — यवतमाळने आम्हाला का निवडले"
 slug: "17-years-trust-vidarbha-security-yavatmal-marathi"
-date: "2025-01-20"
+date: "2026-01-20"
 language: "marathi"
 category: "About Us"
 excerpt: "2009 मध्ये सुरुवात केली तेव्हा यवतमाळ वेगळे होते. आज शहर बदलले, आमचे काम वाढले, पण एक गोष्ट बदलली नाही — विश्वास."
-coverImage: "/images/blogs/about-vss.jpg"
+coverImage: "https://raw.githubusercontent.com/akashshahade/vss-page/main/vss-assets/blogimage.png"
 readTime: "4 min read"
 ---
 
